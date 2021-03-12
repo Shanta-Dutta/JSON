@@ -1,0 +1,68 @@
+#add {
+    background-color: #419643; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+  }
+
+
+  #subtract{
+    background-color: #96417c; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+  }
+  #multiply{
+    background-color: #c58025; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+  }
+  #divide{
+    background-color: #cfcc10; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+  }
+  #clearresults{
+
+    background-color: #cfcc10; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+  }
+
+  body{
+    text-align: center;
+    background-image: linear-gradient(120deg, #cf69c7 , #b4a0ad );
+}
+
+div{ 
+padding: 300px 32px;
+
+
+}
+
+input{
+    padding: 15px 32px;
+}
